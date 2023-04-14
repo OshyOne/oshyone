@@ -37,7 +37,7 @@
  | 🐻 [discord](https://discord.gg/bannersfr) | 🐴 [web](http://banners-fr.xyz/) | 
  
  <br>
- ```fix
+ ```
  Oshy One#0666
  ```
  
