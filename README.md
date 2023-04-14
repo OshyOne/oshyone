@@ -36,8 +36,8 @@
  
  | 🐻 [discord](https://discord.gg/bannersfr) | 🐴 [web](http://banners-fr.xyz/) | 
  
- <br>
- ```
+ 
+ ```py
  Oshy One#0666
  ```
  
